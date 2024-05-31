@@ -96,7 +96,7 @@ Record of all the product user selected in the application.
 <img src="https://github.com/nihal1907010/Shopiround/assets/85826615/1142dbec-43e7-4dbe-aca7-6b943b67854d"  width="250px">
 
 ## License
-
+This project is licensed under [MIT License](https://github.com/nihal1907010/Shopiround_Android/tree/main?tab=MIT-1-ov-file)
 ## Contact
 For questions or inquiries, please contact
 
