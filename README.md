@@ -2,7 +2,7 @@
 
 Mobile website: https://shopiround100-001-site1.btempurl.com/
 
-Link to Android repo: https://github.com/nihal1907010/Shopiround_Android
+Link to Android repo: https://github.com/nihal1907010/Shopiround
 
 ## Usage of the application
 - ShopiRound allows users to quickly search for specific products in nearby retail shops
