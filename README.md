@@ -20,7 +20,7 @@ User has to have an andorid device or an android emulator with GPS support.
 
 or
 
-You can directly find the executable file(app) in the apk folder. Download and Install it directly to your android mobile phone.
+You can directly find the executable file(app) in the "Android App" folder in this repo. Download and Install it directly to your android mobile phone.
 
 ## User manual
 
